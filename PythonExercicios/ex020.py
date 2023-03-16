@@ -9,4 +9,4 @@ alunos = [a1, a2, a3, a4]
 
 shuffle(alunos)
 
-print('A ordem da apresentação será: {}'.format(alunos))
+print('A ordem dos alunos na apresentação será: {}'.format(alunos))
